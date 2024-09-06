@@ -1,0 +1,15 @@
+H:\2025\2025\szoSzamolo\szoSzamolo\bin\Debug\net8.0\szoSzamolo.exe
+H:\2025\2025\szoSzamolo\szoSzamolo\bin\Debug\net8.0\szoSzamolo.deps.json
+H:\2025\2025\szoSzamolo\szoSzamolo\bin\Debug\net8.0\szoSzamolo.runtimeconfig.json
+H:\2025\2025\szoSzamolo\szoSzamolo\bin\Debug\net8.0\szoSzamolo.dll
+H:\2025\2025\szoSzamolo\szoSzamolo\bin\Debug\net8.0\szoSzamolo.pdb
+H:\2025\2025\szoSzamolo\szoSzamolo\obj\Debug\net8.0\szoSzamolo.GeneratedMSBuildEditorConfig.editorconfig
+H:\2025\2025\szoSzamolo\szoSzamolo\obj\Debug\net8.0\szoSzamolo.AssemblyInfoInputs.cache
+H:\2025\2025\szoSzamolo\szoSzamolo\obj\Debug\net8.0\szoSzamolo.AssemblyInfo.cs
+H:\2025\2025\szoSzamolo\szoSzamolo\obj\Debug\net8.0\szoSzamolo.csproj.CoreCompileInputs.cache
+H:\2025\2025\szoSzamolo\szoSzamolo\obj\Debug\net8.0\szoSzamolo.sourcelink.json
+H:\2025\2025\szoSzamolo\szoSzamolo\obj\Debug\net8.0\szoSzamolo.dll
+H:\2025\2025\szoSzamolo\szoSzamolo\obj\Debug\net8.0\refint\szoSzamolo.dll
+H:\2025\2025\szoSzamolo\szoSzamolo\obj\Debug\net8.0\szoSzamolo.pdb
+H:\2025\2025\szoSzamolo\szoSzamolo\obj\Debug\net8.0\szoSzamolo.genruntimeconfig.cache
+H:\2025\2025\szoSzamolo\szoSzamolo\obj\Debug\net8.0\ref\szoSzamolo.dll

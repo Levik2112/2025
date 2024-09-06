@@ -1,0 +1,15 @@
+H:\2025\2025\gyakorlas09.03\gyakorlas09.03\bin\Debug\net8.0\gyakorlas09.03.exe
+H:\2025\2025\gyakorlas09.03\gyakorlas09.03\bin\Debug\net8.0\gyakorlas09.03.deps.json
+H:\2025\2025\gyakorlas09.03\gyakorlas09.03\bin\Debug\net8.0\gyakorlas09.03.runtimeconfig.json
+H:\2025\2025\gyakorlas09.03\gyakorlas09.03\bin\Debug\net8.0\gyakorlas09.03.dll
+H:\2025\2025\gyakorlas09.03\gyakorlas09.03\bin\Debug\net8.0\gyakorlas09.03.pdb
+H:\2025\2025\gyakorlas09.03\gyakorlas09.03\obj\Debug\net8.0\gyakorlas09.03.GeneratedMSBuildEditorConfig.editorconfig
+H:\2025\2025\gyakorlas09.03\gyakorlas09.03\obj\Debug\net8.0\gyakorlas09.03.AssemblyInfoInputs.cache
+H:\2025\2025\gyakorlas09.03\gyakorlas09.03\obj\Debug\net8.0\gyakorlas09.03.AssemblyInfo.cs
+H:\2025\2025\gyakorlas09.03\gyakorlas09.03\obj\Debug\net8.0\gyakorlas09.03.csproj.CoreCompileInputs.cache
+H:\2025\2025\gyakorlas09.03\gyakorlas09.03\obj\Debug\net8.0\gyakorlas09.03.sourcelink.json
+H:\2025\2025\gyakorlas09.03\gyakorlas09.03\obj\Debug\net8.0\gyakorlas09.03.dll
+H:\2025\2025\gyakorlas09.03\gyakorlas09.03\obj\Debug\net8.0\refint\gyakorlas09.03.dll
+H:\2025\2025\gyakorlas09.03\gyakorlas09.03\obj\Debug\net8.0\gyakorlas09.03.pdb
+H:\2025\2025\gyakorlas09.03\gyakorlas09.03\obj\Debug\net8.0\gyakorlas09.03.genruntimeconfig.cache
+H:\2025\2025\gyakorlas09.03\gyakorlas09.03\obj\Debug\net8.0\ref\gyakorlas09.03.dll

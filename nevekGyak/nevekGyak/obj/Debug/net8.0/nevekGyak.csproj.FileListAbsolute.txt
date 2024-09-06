@@ -1,0 +1,15 @@
+H:\2025\2025\nevekGyak\nevekGyak\bin\Debug\net8.0\nevekGyak.exe
+H:\2025\2025\nevekGyak\nevekGyak\bin\Debug\net8.0\nevekGyak.deps.json
+H:\2025\2025\nevekGyak\nevekGyak\bin\Debug\net8.0\nevekGyak.runtimeconfig.json
+H:\2025\2025\nevekGyak\nevekGyak\bin\Debug\net8.0\nevekGyak.dll
+H:\2025\2025\nevekGyak\nevekGyak\bin\Debug\net8.0\nevekGyak.pdb
+H:\2025\2025\nevekGyak\nevekGyak\obj\Debug\net8.0\nevekGyak.GeneratedMSBuildEditorConfig.editorconfig
+H:\2025\2025\nevekGyak\nevekGyak\obj\Debug\net8.0\nevekGyak.AssemblyInfoInputs.cache
+H:\2025\2025\nevekGyak\nevekGyak\obj\Debug\net8.0\nevekGyak.AssemblyInfo.cs
+H:\2025\2025\nevekGyak\nevekGyak\obj\Debug\net8.0\nevekGyak.csproj.CoreCompileInputs.cache
+H:\2025\2025\nevekGyak\nevekGyak\obj\Debug\net8.0\nevekGyak.sourcelink.json
+H:\2025\2025\nevekGyak\nevekGyak\obj\Debug\net8.0\nevekGyak.dll
+H:\2025\2025\nevekGyak\nevekGyak\obj\Debug\net8.0\refint\nevekGyak.dll
+H:\2025\2025\nevekGyak\nevekGyak\obj\Debug\net8.0\nevekGyak.pdb
+H:\2025\2025\nevekGyak\nevekGyak\obj\Debug\net8.0\nevekGyak.genruntimeconfig.cache
+H:\2025\2025\nevekGyak\nevekGyak\obj\Debug\net8.0\ref\nevekGyak.dll
