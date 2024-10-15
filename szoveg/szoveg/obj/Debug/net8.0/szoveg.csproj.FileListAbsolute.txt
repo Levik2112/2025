@@ -1,0 +1,15 @@
+H:\2025\2025\szoveg\szoveg\bin\Debug\net8.0\szoveg.exe
+H:\2025\2025\szoveg\szoveg\bin\Debug\net8.0\szoveg.deps.json
+H:\2025\2025\szoveg\szoveg\bin\Debug\net8.0\szoveg.runtimeconfig.json
+H:\2025\2025\szoveg\szoveg\bin\Debug\net8.0\szoveg.dll
+H:\2025\2025\szoveg\szoveg\bin\Debug\net8.0\szoveg.pdb
+H:\2025\2025\szoveg\szoveg\obj\Debug\net8.0\szoveg.GeneratedMSBuildEditorConfig.editorconfig
+H:\2025\2025\szoveg\szoveg\obj\Debug\net8.0\szoveg.AssemblyInfoInputs.cache
+H:\2025\2025\szoveg\szoveg\obj\Debug\net8.0\szoveg.AssemblyInfo.cs
+H:\2025\2025\szoveg\szoveg\obj\Debug\net8.0\szoveg.csproj.CoreCompileInputs.cache
+H:\2025\2025\szoveg\szoveg\obj\Debug\net8.0\szoveg.sourcelink.json
+H:\2025\2025\szoveg\szoveg\obj\Debug\net8.0\szoveg.dll
+H:\2025\2025\szoveg\szoveg\obj\Debug\net8.0\refint\szoveg.dll
+H:\2025\2025\szoveg\szoveg\obj\Debug\net8.0\szoveg.pdb
+H:\2025\2025\szoveg\szoveg\obj\Debug\net8.0\szoveg.genruntimeconfig.cache
+H:\2025\2025\szoveg\szoveg\obj\Debug\net8.0\ref\szoveg.dll

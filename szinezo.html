@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>10x10 Táblázat</title>
+    <style>
+        table {
+            border-collapse: collapse;
+        }
+        td {
+            width: 50px;
+            height: 50px;
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <h2>10x10 Táblázat színezése</h2>
+    <label for="colorPicker">Válassz színt:</label>
+    <input type="color" id="colorPicker" value="#ff0000">
+
+    <table id="grid"></table>
+
+    <script>
+        // Hozz létre egy 10x10-es táblázatot
+const grid = document.getElementById("grid");
+
+for (let i = 0; i < 10; i++) {
+    const row = document.createElement("tr");
+    for (let j = 0; j < 10; j++) {
+        const cell = document.createElement("td");
+        cell.dataset.col = j;  // Tároljuk a cella oszlopindexét
+        cell.dataset.row = i;  // Tároljuk a cella sorindexét
+        cell.addEventListener("click", colorDiagonal);
+        row.appendChild(cell);
+    }
+    grid.appendChild(row);
+}
+
+// Színválasztó
+const colorPicker = document.getElementById("colorPicker");
+
+// Esemény, amikor a cellára kattintanak
+function colorDiagonal(event) {
+    const clickedCell = event.target;
+    const row = parseInt(clickedCell.dataset.row);
+    const col = parseInt(clickedCell.dataset.col);
+    
+    // Ha már színezett, akkor hagyjuk ki
+    if (clickedCell.style.backgroundColor) {
+        return;
+    }
+
+    // Az aktuálisan kiválasztott szín
+    const selectedColor = colorPicker.value;
+
+    // Színezzük ki az átlós cellákat
+    for (let i = 0; i < 10; i++) {
+        const leftDiagonalCell = grid.rows[i].cells[i]; // Bal átló
+        const rightDiagonalCell = grid.rows[i].cells[9 - i]; // Jobb átló
+
+        if (!leftDiagonalCell.style.backgroundColor) {
+            leftDiagonalCell.style.backgroundColor = selectedColor;
+        }
+        if (!rightDiagonalCell.style.backgroundColor) {
+            rightDiagonalCell.style.backgroundColor = selectedColor;
+        }
+    }
+}
+
+        
+    </script>
+</body>
+</html>

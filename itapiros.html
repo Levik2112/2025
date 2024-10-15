@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .doboz{
+        width: 300px;
+        height: 300px;
+        border: 1px solid black;
+    }
+</style>
+<body>
+
+    <div id="1" class="doboz" onclick="itapiros()"></div>
+    <div id="2" class="doboz" onclick="itapiros()"></div>
+    <div id="3" class="doboz" onclick="itapiros()"></div>
+
+   <script>
+    
+    const randomSzam = Math.floor((Math.random() * 3));
+    function itapiros(){
+       
+        
+         var divs = document.querySelectorAll('.doboz');
+        let valasztott = divs[randomSzam];
+        valasztott.style.backgroundColor="green";
+        for(let i = 0;i<divs.length;i++){
+            if(divs[i].style.backgroundColor==""){
+                divs[i].style.backgroundColor="red";
+            }
+        }
+        valasztott.addEventListener("click", (event) => {
+        button.textContent = `Click count: ${event.detail}`;
+    });        
+
+        
+    }
+   </script> 
+</body>
+</html>

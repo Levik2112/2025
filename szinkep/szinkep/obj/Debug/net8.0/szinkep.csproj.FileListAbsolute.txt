@@ -1,0 +1,15 @@
+H:\2025\2025\szinkep\szinkep\bin\Debug\net8.0\szinkep.exe
+H:\2025\2025\szinkep\szinkep\bin\Debug\net8.0\szinkep.deps.json
+H:\2025\2025\szinkep\szinkep\bin\Debug\net8.0\szinkep.runtimeconfig.json
+H:\2025\2025\szinkep\szinkep\bin\Debug\net8.0\szinkep.dll
+H:\2025\2025\szinkep\szinkep\bin\Debug\net8.0\szinkep.pdb
+H:\2025\2025\szinkep\szinkep\obj\Debug\net8.0\szinkep.GeneratedMSBuildEditorConfig.editorconfig
+H:\2025\2025\szinkep\szinkep\obj\Debug\net8.0\szinkep.AssemblyInfoInputs.cache
+H:\2025\2025\szinkep\szinkep\obj\Debug\net8.0\szinkep.AssemblyInfo.cs
+H:\2025\2025\szinkep\szinkep\obj\Debug\net8.0\szinkep.csproj.CoreCompileInputs.cache
+H:\2025\2025\szinkep\szinkep\obj\Debug\net8.0\szinkep.sourcelink.json
+H:\2025\2025\szinkep\szinkep\obj\Debug\net8.0\szinkep.dll
+H:\2025\2025\szinkep\szinkep\obj\Debug\net8.0\refint\szinkep.dll
+H:\2025\2025\szinkep\szinkep\obj\Debug\net8.0\szinkep.pdb
+H:\2025\2025\szinkep\szinkep\obj\Debug\net8.0\szinkep.genruntimeconfig.cache
+H:\2025\2025\szinkep\szinkep\obj\Debug\net8.0\ref\szinkep.dll

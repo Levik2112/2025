@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\2025\\2025\\gyakOOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D761C5EB-9746-4D8C-9679-B08AAD901059}|gyakOOP\\gyakOOP.csproj|h:\\2025\\2025\\gyakoop\\gyakoop\\kutya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D761C5EB-9746-4D8C-9679-B08AAD901059}|gyakOOP\\gyakOOP.csproj|solutionrelative:gyakoop\\kutya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D761C5EB-9746-4D8C-9679-B08AAD901059}|gyakOOP\\gyakOOP.csproj|h:\\2025\\2025\\gyakoop\\gyakoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D761C5EB-9746-4D8C-9679-B08AAD901059}|gyakOOP\\gyakOOP.csproj|solutionrelative:gyakoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kutya.cs",
+              "DocumentMoniker": "H:\\2025\\2025\\gyakOOP\\gyakOOP\\kutya.cs",
+              "RelativeDocumentMoniker": "gyakOOP\\kutya.cs",
+              "ToolTip": "H:\\2025\\2025\\gyakOOP\\gyakOOP\\kutya.cs",
+              "RelativeToolTip": "gyakOOP\\kutya.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:46:15.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\2025\\2025\\gyakOOP\\gyakOOP\\Program.cs",
+              "RelativeDocumentMoniker": "gyakOOP\\Program.cs",
+              "ToolTip": "H:\\2025\\2025\\gyakOOP\\gyakOOP\\Program.cs",
+              "RelativeToolTip": "gyakOOP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:45:42.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

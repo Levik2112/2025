@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Táblázat</title>
+</head>
+<body onload="tablaKeszito()">
+    <script>
+        sor = 8;
+        oszlop = 8;
+        function tablaKeszito(){
+            let tabla = document.createElement("table");
+            tabla.id="asd";
+            tabla.style.border="1px solid black";
+            tabla.width="800px";
+            
+            
+            
+            document.body.appendChild(tabla);
+            for(let i = 0;i<sor;i++){
+                
+                let sorja = document.createElement("tr");
+
+                sorja.style.border="1px solid black";
+                
+                tabla.appendChild(sorja);
+                
+                for(let x = 0;x<oszlop;x++){
+                   
+                    let oszlopja = document.createElement("td");
+                    oszlopja.style.border="1px solid black";
+                    oszlopja.style.height="100px";
+                    tabla.appendChild(oszlopja);
+                    oszlopja.addEventListener("click",function(){
+                        let bekeres = prompt("Szöveg: ");
+                        oszlopja.innerHTML = bekeres;
+                    })
+
+                }
+                
+
+            }
+        }
+    </script>
+</body>
+</html>

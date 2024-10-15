@@ -1,0 +1,15 @@
+H:\2025\2025\mondatGeneralo\mondatGeneralo\bin\Debug\net8.0\mondatGeneralo.exe
+H:\2025\2025\mondatGeneralo\mondatGeneralo\bin\Debug\net8.0\mondatGeneralo.deps.json
+H:\2025\2025\mondatGeneralo\mondatGeneralo\bin\Debug\net8.0\mondatGeneralo.runtimeconfig.json
+H:\2025\2025\mondatGeneralo\mondatGeneralo\bin\Debug\net8.0\mondatGeneralo.dll
+H:\2025\2025\mondatGeneralo\mondatGeneralo\bin\Debug\net8.0\mondatGeneralo.pdb
+H:\2025\2025\mondatGeneralo\mondatGeneralo\obj\Debug\net8.0\mondatGeneralo.GeneratedMSBuildEditorConfig.editorconfig
+H:\2025\2025\mondatGeneralo\mondatGeneralo\obj\Debug\net8.0\mondatGeneralo.AssemblyInfoInputs.cache
+H:\2025\2025\mondatGeneralo\mondatGeneralo\obj\Debug\net8.0\mondatGeneralo.AssemblyInfo.cs
+H:\2025\2025\mondatGeneralo\mondatGeneralo\obj\Debug\net8.0\mondatGeneralo.csproj.CoreCompileInputs.cache
+H:\2025\2025\mondatGeneralo\mondatGeneralo\obj\Debug\net8.0\mondatGeneralo.sourcelink.json
+H:\2025\2025\mondatGeneralo\mondatGeneralo\obj\Debug\net8.0\mondatGeneralo.dll
+H:\2025\2025\mondatGeneralo\mondatGeneralo\obj\Debug\net8.0\refint\mondatGeneralo.dll
+H:\2025\2025\mondatGeneralo\mondatGeneralo\obj\Debug\net8.0\mondatGeneralo.pdb
+H:\2025\2025\mondatGeneralo\mondatGeneralo\obj\Debug\net8.0\mondatGeneralo.genruntimeconfig.cache
+H:\2025\2025\mondatGeneralo\mondatGeneralo\obj\Debug\net8.0\ref\mondatGeneralo.dll

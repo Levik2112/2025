@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h3>Szorzó Tábla</h3>
+    <form action="" oninput=proba()>
+
+    <label for="oszlop">
+        Oszlop<input type="range" name="oszlop" id="oszlop">
+    </label>
+    
+    <br>
+    <label for="sor">
+        Sorok<input type="range" name="sor" id="sor">
+    </label>
+
+    <table>
+        <tr>
+          <td>Emil</td>
+          <td>Tobias</td>
+          <td>Linus</td>
+        </tr>
+        <tr>
+          <td>16</td>
+          <td>14</td>
+          <td>10</td>
+        </tr>
+      </table>
+   
+    <output name="x" for="oszlop sor"></output>
+    <script>
+       
+        function proba(){
+            oszlop = parseInt(document.getElementById("oszlop").value);
+            sor = parseInt(document.getElementById("sor").value);
+            console.log(sor)
+            for(let i = 0;i<sor;i++){
+                for(let x = 0;x<oszlop;x++){
+                    
+                    
+                }
+            }
+        }
+    </script>
+</form>
+</body>
+</html>

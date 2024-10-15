@@ -1,0 +1,15 @@
+H:\2025\2025\gyakOOP\gyakOOP\bin\Debug\net8.0\gyakOOP.exe
+H:\2025\2025\gyakOOP\gyakOOP\bin\Debug\net8.0\gyakOOP.deps.json
+H:\2025\2025\gyakOOP\gyakOOP\bin\Debug\net8.0\gyakOOP.runtimeconfig.json
+H:\2025\2025\gyakOOP\gyakOOP\bin\Debug\net8.0\gyakOOP.dll
+H:\2025\2025\gyakOOP\gyakOOP\bin\Debug\net8.0\gyakOOP.pdb
+H:\2025\2025\gyakOOP\gyakOOP\obj\Debug\net8.0\gyakOOP.GeneratedMSBuildEditorConfig.editorconfig
+H:\2025\2025\gyakOOP\gyakOOP\obj\Debug\net8.0\gyakOOP.AssemblyInfoInputs.cache
+H:\2025\2025\gyakOOP\gyakOOP\obj\Debug\net8.0\gyakOOP.AssemblyInfo.cs
+H:\2025\2025\gyakOOP\gyakOOP\obj\Debug\net8.0\gyakOOP.csproj.CoreCompileInputs.cache
+H:\2025\2025\gyakOOP\gyakOOP\obj\Debug\net8.0\gyakOOP.sourcelink.json
+H:\2025\2025\gyakOOP\gyakOOP\obj\Debug\net8.0\gyakOOP.dll
+H:\2025\2025\gyakOOP\gyakOOP\obj\Debug\net8.0\refint\gyakOOP.dll
+H:\2025\2025\gyakOOP\gyakOOP\obj\Debug\net8.0\gyakOOP.pdb
+H:\2025\2025\gyakOOP\gyakOOP\obj\Debug\net8.0\gyakOOP.genruntimeconfig.cache
+H:\2025\2025\gyakOOP\gyakOOP\obj\Debug\net8.0\ref\gyakOOP.dll
