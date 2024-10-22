@@ -3,6 +3,21 @@
   "WorkspaceRootPath": "H:\\2025\\2025\\szinkep\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dobil21\\Downloads\\e_infmeg_12okt_ut\\Megoldasok\\4_Szinkep\\szinkep.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n   \u011F\u011F\u011F\u011F* \u011F\u011F@   t f i n d d i a l o g f o r m       \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dobil21\\Downloads\\e_infmeg_12okt_ut\\Megoldasok\\4_Szinkep\\szinkep.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dobil21\\Downloads\\e_infmeg_12okt_ut\\Megoldasok\\4_Szinkep\\szinkep.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       . \u011F\u011F2   m a i n i c o n       \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dobil21\\Downloads\\e_infmeg_12okt_ut\\Megoldasok\\4_Szinkep\\szinkep.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n   \u011F\u011F\u011F\u011F8 !     \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dobil21\\Downloads\\e_infmeg_12okt_ut\\Megoldasok\\4_Szinkep\\szinkep.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n   \u011F\u011F\u011F\u011F* \u011F\u011F.   t f o r m Q       \u0022     "
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5043BDA0-920B-4E25-9DD9-95083C666A41}|szinkep\\szinkep.csproj|h:\\2025\\2025\\szinkep\\szinkep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5043BDA0-920B-4E25-9DD9-95083C666A41}|szinkep\\szinkep.csproj|solutionrelative:szinkep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +34,61 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "szinkep.exe - \u0022TFINDDIALOGFORM\u0022 [Neutral] - RCDATA",
+              "DocumentMoniker": "C:\\Users\\dobil21\\Downloads\\e_infmeg_12okt_ut\\Megoldasok\\4_Szinkep\\szinkep.exe",
+              "ToolTip": "C:\\Users\\dobil21\\Downloads\\e_infmeg_12okt_ut\\Megoldasok\\4_Szinkep\\szinkep.exe - \u0022TFINDDIALOGFORM\u0022 [Neutral] - RCDATA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2024-10-16T10:25:22.508Z",
+              "EditorCaption": " - \u0022TFINDDIALOGFORM\u0022 [Neutral] - RCDATA"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "szinkep.exe - 1 [Neutral] - RCDATA",
+              "DocumentMoniker": "C:\\Users\\dobil21\\Downloads\\e_infmeg_12okt_ut\\Megoldasok\\4_Szinkep\\szinkep.exe",
+              "ToolTip": "C:\\Users\\dobil21\\Downloads\\e_infmeg_12okt_ut\\Megoldasok\\4_Szinkep\\szinkep.exe - 1 [Neutral] - RCDATA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2024-10-16T10:24:55.89Z",
+              "EditorCaption": " - 1 [Neutral] - RCDATA"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "szinkep.exe - \u0022TFORM1\u0022 [Neutral] - RCDATA",
+              "DocumentMoniker": "C:\\Users\\dobil21\\Downloads\\e_infmeg_12okt_ut\\Megoldasok\\4_Szinkep\\szinkep.exe",
+              "ToolTip": "C:\\Users\\dobil21\\Downloads\\e_infmeg_12okt_ut\\Megoldasok\\4_Szinkep\\szinkep.exe - \u0022TFORM1\u0022 [Neutral] - RCDATA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2024-10-16T10:24:46.431Z",
+              "EditorCaption": " - \u0022TFORM1\u0022 [Neutral] - RCDATA"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "szinkep.exe - \u0022MAINICON\u0022 [Neutral] - Icon [256x256, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\dobil21\\Downloads\\e_infmeg_12okt_ut\\Megoldasok\\4_Szinkep\\szinkep.exe",
+              "ToolTip": "C:\\Users\\dobil21\\Downloads\\e_infmeg_12okt_ut\\Megoldasok\\4_Szinkep\\szinkep.exe - \u0022MAINICON\u0022 [Neutral] - Icon [256x256, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2024-10-16T10:24:13.421Z",
+              "EditorCaption": " - \u0022MAINICON\u0022 [Neutral] - Icon [256x256, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "szinkep.exe",
+              "DocumentMoniker": "C:\\Users\\dobil21\\Downloads\\e_infmeg_12okt_ut\\Megoldasok\\4_Szinkep\\szinkep.exe",
+              "ToolTip": "C:\\Users\\dobil21\\Downloads\\e_infmeg_12okt_ut\\Megoldasok\\4_Szinkep\\szinkep.exe",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2024-10-16T10:23:59.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "H:\\2025\\2025\\szinkep\\szinkep\\Program.cs",
               "RelativeDocumentMoniker": "szinkep\\Program.cs",
               "ToolTip": "H:\\2025\\2025\\szinkep\\szinkep\\Program.cs",
               "RelativeToolTip": "szinkep\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAABcAAAAhAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAQwC4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T11:52:13.676Z",
               "EditorCaption": ""

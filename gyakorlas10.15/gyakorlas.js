@@ -21,12 +21,35 @@ function tablaMeret()
         {
             let tempCella=document.createElement("td");
             tempCella.addEventListener("dblclick",function(){
-                this.style.background="black";
+                //this.style.background="black";
+                this.classList.toggle("kattintott");
+                this.appendChild(inputKeszit(""));
+                this.children[0].focus();
             })
             tempSor.appendChild(tempCella);
         }
         document.getElementById("tabla").appendChild(tempSor);
     }
+}
+function inputKeszit(ertek){
+    let input = document.createElement("input");
+    input.type="text";
+    input.placeholder="szöveg";
+    if(ertek!==""){
+        input.value=ertek;
+    }
+    
+    input.addEventListener("keypress",function(event){
+        if(event.key === "Enter"){
+            event.preventDefault();
+            this.parentElement.classList.toggle("kattintott");
+            this.parentElement.innerHTML = this.value;
+            
+
+        }
+    })
+
+    return input;
 }
 
 function kattintas()

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("szinkep")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f85a536e9ff7d9749af0107e4bb02ce7371cc9c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90a09d82ef655af7149757d33b5ee59f2eb299b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("szinkep")]
 [assembly: System.Reflection.AssemblyTitleAttribute("szinkep")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

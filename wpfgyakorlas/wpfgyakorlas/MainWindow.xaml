@@ -1,0 +1,18 @@
+﻿<Window x:Class="wpfgyakorlas.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpfgyakorlas"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="Nev:" HorizontalAlignment="Left" Margin="192,154,0,0" VerticalAlignment="Top" Height="34" Width="51" Click="Button_Click_1"/>
+        <Button Content="Kor:" HorizontalAlignment="Left" Margin="192,0,0,0" VerticalAlignment="Center" Height="34" Width="51" Click="Button_Click_2"/>
+        <Button Content="Város:" HorizontalAlignment="Left" Margin="192,258,0,0" VerticalAlignment="Top" Height="34" Width="51" Click="Button_Click_3"/>
+        <TextBlock x:Name="varos"  HorizontalAlignment="Left" Margin="289,267,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+        <TextBlock x:Name="kor" HorizontalAlignment="Left" Margin="289,0,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Center"/>
+        <TextBlock x:Name="nev" HorizontalAlignment="Left" Margin="289,163,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" x:FieldModifier="public"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\2025\\2025\\wpfgyakorlas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5EDBB3-A6D2-4E63-99C5-2B483C540CC6}|wpfgyakorlas\\wpfgyakorlas.csproj|h:\\2025\\2025\\wpfgyakorlas\\wpfgyakorlas\\window3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DC5EDBB3-A6D2-4E63-99C5-2B483C540CC6}|wpfgyakorlas\\wpfgyakorlas.csproj|solutionrelative:wpfgyakorlas\\window3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5EDBB3-A6D2-4E63-99C5-2B483C540CC6}|wpfgyakorlas\\wpfgyakorlas.csproj|h:\\2025\\2025\\wpfgyakorlas\\wpfgyakorlas\\window3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5EDBB3-A6D2-4E63-99C5-2B483C540CC6}|wpfgyakorlas\\wpfgyakorlas.csproj|solutionrelative:wpfgyakorlas\\window3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5EDBB3-A6D2-4E63-99C5-2B483C540CC6}|wpfgyakorlas\\wpfgyakorlas.csproj|h:\\2025\\2025\\wpfgyakorlas\\wpfgyakorlas\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DC5EDBB3-A6D2-4E63-99C5-2B483C540CC6}|wpfgyakorlas\\wpfgyakorlas.csproj|solutionrelative:wpfgyakorlas\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5EDBB3-A6D2-4E63-99C5-2B483C540CC6}|wpfgyakorlas\\wpfgyakorlas.csproj|h:\\2025\\2025\\wpfgyakorlas\\wpfgyakorlas\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5EDBB3-A6D2-4E63-99C5-2B483C540CC6}|wpfgyakorlas\\wpfgyakorlas.csproj|solutionrelative:wpfgyakorlas\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5EDBB3-A6D2-4E63-99C5-2B483C540CC6}|wpfgyakorlas\\wpfgyakorlas.csproj|h:\\2025\\2025\\wpfgyakorlas\\wpfgyakorlas\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DC5EDBB3-A6D2-4E63-99C5-2B483C540CC6}|wpfgyakorlas\\wpfgyakorlas.csproj|solutionrelative:wpfgyakorlas\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5EDBB3-A6D2-4E63-99C5-2B483C540CC6}|wpfgyakorlas\\wpfgyakorlas.csproj|h:\\2025\\2025\\wpfgyakorlas\\wpfgyakorlas\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5EDBB3-A6D2-4E63-99C5-2B483C540CC6}|wpfgyakorlas\\wpfgyakorlas.csproj|solutionrelative:wpfgyakorlas\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5EDBB3-A6D2-4E63-99C5-2B483C540CC6}|wpfgyakorlas\\wpfgyakorlas.csproj|h:\\2025\\2025\\wpfgyakorlas\\wpfgyakorlas\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5EDBB3-A6D2-4E63-99C5-2B483C540CC6}|wpfgyakorlas\\wpfgyakorlas.csproj|solutionrelative:wpfgyakorlas\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5EDBB3-A6D2-4E63-99C5-2B483C540CC6}|wpfgyakorlas\\wpfgyakorlas.csproj|h:\\2025\\2025\\wpfgyakorlas\\wpfgyakorlas\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DC5EDBB3-A6D2-4E63-99C5-2B483C540CC6}|wpfgyakorlas\\wpfgyakorlas.csproj|solutionrelative:wpfgyakorlas\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window3.xaml.cs",
+              "DocumentMoniker": "H:\\2025\\2025\\wpfgyakorlas\\wpfgyakorlas\\Window3.xaml.cs",
+              "RelativeDocumentMoniker": "wpfgyakorlas\\Window3.xaml.cs",
+              "ToolTip": "H:\\2025\\2025\\wpfgyakorlas\\wpfgyakorlas\\Window3.xaml.cs",
+              "RelativeToolTip": "wpfgyakorlas\\Window3.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwBwAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:20:10.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Window3.xaml",
+              "DocumentMoniker": "H:\\2025\\2025\\wpfgyakorlas\\wpfgyakorlas\\Window3.xaml",
+              "RelativeDocumentMoniker": "wpfgyakorlas\\Window3.xaml",
+              "ToolTip": "H:\\2025\\2025\\wpfgyakorlas\\wpfgyakorlas\\Window3.xaml",
+              "RelativeToolTip": "wpfgyakorlas\\Window3.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-21T12:19:24.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Window2.xaml.cs",
+              "DocumentMoniker": "H:\\2025\\2025\\wpfgyakorlas\\wpfgyakorlas\\Window2.xaml.cs",
+              "RelativeDocumentMoniker": "wpfgyakorlas\\Window2.xaml.cs",
+              "ToolTip": "H:\\2025\\2025\\wpfgyakorlas\\wpfgyakorlas\\Window2.xaml.cs",
+              "RelativeToolTip": "wpfgyakorlas\\Window2.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwBAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:18:33.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Window2.xaml",
+              "DocumentMoniker": "H:\\2025\\2025\\wpfgyakorlas\\wpfgyakorlas\\Window2.xaml",
+              "RelativeDocumentMoniker": "wpfgyakorlas\\Window2.xaml",
+              "ToolTip": "H:\\2025\\2025\\wpfgyakorlas\\wpfgyakorlas\\Window2.xaml",
+              "RelativeToolTip": "wpfgyakorlas\\Window2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-21T12:17:39.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "H:\\2025\\2025\\wpfgyakorlas\\wpfgyakorlas\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "wpfgyakorlas\\Window1.xaml.cs",
+              "ToolTip": "H:\\2025\\2025\\wpfgyakorlas\\wpfgyakorlas\\Window1.xaml.cs",
+              "RelativeToolTip": "wpfgyakorlas\\Window1.xaml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:53:45.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "H:\\2025\\2025\\wpfgyakorlas\\wpfgyakorlas\\Window1.xaml",
+              "RelativeDocumentMoniker": "wpfgyakorlas\\Window1.xaml",
+              "ToolTip": "H:\\2025\\2025\\wpfgyakorlas\\wpfgyakorlas\\Window1.xaml",
+              "RelativeToolTip": "wpfgyakorlas\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-21T11:48:11.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "H:\\2025\\2025\\wpfgyakorlas\\wpfgyakorlas\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "wpfgyakorlas\\MainWindow.xaml",
+              "ToolTip": "H:\\2025\\2025\\wpfgyakorlas\\wpfgyakorlas\\MainWindow.xaml",
+              "RelativeToolTip": "wpfgyakorlas\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-17T11:00:11.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "H:\\2025\\2025\\wpfgyakorlas\\wpfgyakorlas\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "wpfgyakorlas\\MainWindow.xaml.cs",
+              "ToolTip": "H:\\2025\\2025\\wpfgyakorlas\\wpfgyakorlas\\MainWindow.xaml.cs",
+              "RelativeToolTip": "wpfgyakorlas\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAcwDIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:00:08.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

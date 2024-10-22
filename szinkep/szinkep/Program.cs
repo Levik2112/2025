@@ -96,3 +96,8 @@ cuc.Add("Kék", kek);
 Console.WriteLine("4.feladat A legtöbbször előforduló szín: {0}", cuc.FirstOrDefault(x => x.Value == cuc.Values.Max()).Key);
 
 
+//5.feladat
+
+
+
+
