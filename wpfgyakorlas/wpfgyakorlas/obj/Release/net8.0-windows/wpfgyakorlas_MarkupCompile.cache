@@ -4,15 +4,15 @@
 winexe
 C#
 .cs
-H:\2025\2025\wpfgyakorlas\wpfgyakorlas\obj\Debug\net8.0-windows\
+H:\2025\2025\wpfgyakorlas\wpfgyakorlas\obj\Release\net8.0-windows\
 wpfgyakorlas
 none
 false
-TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+TRACE;RELEASE;NET;NET8_0;NETCOREAPP
 H:\2025\2025\wpfgyakorlas\wpfgyakorlas\App.xaml
 4-1508649396
 
-71472933060
+7-1559480959
 198-635017904
 MainWindow.xaml;Window1.xaml;Window2.xaml;Window3.xaml;
 

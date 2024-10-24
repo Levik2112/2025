@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,6 +8,7 @@
     <link rel="stylesheet" href="projekt.css">
     <title>Projekt 2024 10.08 Kezdés</title>
 </head>
+
 <body>
     <form>
         <h1>Form készítő</h1>
@@ -14,27 +16,45 @@
 
         <h3>Elemek:</h3>
         <ul id="igen">
-           
-            <li><p >Név:<input class="check" id="asd" type="checkbox"></p></li>
-            <li><p >Születési dátum:<input class="check" type="checkbox"></p></li>
-            <li><p >Lakhely:<input class="check" type="checkbox"></p></li>
-            <li><p >Telefonszám:<input class="check" type="checkbox"></p></li>
-            <li><p >E-Mail:<input class="check" type="checkbox"></p></li>
-            <li><p >Születési hely:<input class="check" type="checkbox"></p></li>
-            <li><p >Jelszó: <input class="check" type="checkbox"></p></li>
+
+            <li>
+                <p data-tipus="text" data-nev="Név">Név:<input class="check" type="checkbox"></p>
+            </li>
+            <li>
+                <p data-tipus="date" data-nev="Születési dátum">Születési dátum:<input class="check" type="checkbox">
+                </p>
+            </li>
+            <li>
+                <p data-tipus="text" data-nev="Lakhely">Lakhely:<input class="check" type="checkbox"></p>
+            </li>
+            <li>
+                <p data-tipus="number" data-nev="Telefonszám">Telefonszám:<input class="check" type="checkbox"></p>
+            </li>
+            <li>
+                <p data-tipus="email" data-nev="E-Mail">E-Mail:<input class="check" type="checkbox"></p>
+            </li>
+            <li>
+                <p data-tipus="text" data-nev="Születési hely">Születési hely:<input class="check" type="checkbox"></p>
+            </li>
+            <li>
+                <p data-tipus="password" data-nev="Jelszó">Jelszó: <input class="check" type="checkbox"></p>
+            </li>
         </ul>
 
         <h3>Custom elem hozzáadása:</h3>
-        <input type="text">
+        <input type="text" id="customNev">
         <select name="customElemek" id="CustomElemek">
             <option value="text">Text</option>
             <option value="number">Number</option>
             <option value="date">Date</option>
             <option value="password">password</option>
-          </select>
+        </select>
     </form>
+    <section id="hozzaadott"></section>
     <br>
+    <button onclick="hozzaad()">Hozzáad</button>
     <button onclick="elemKeszito()">Készít</button>
-    
+
 </body>
+
 </html>
